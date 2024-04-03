@@ -1,0 +1,8 @@
+1. System Admin can add, remove Office Manager
+2. Office Manager can add, remove Dentists
+3. Office Manager can add, remove , list Patients who require dental services
+4. Patients can call in or use website to request appointments
+5. Office Manager can book appointment and send confirmation email to Patients
+6. Dentists can list appointments and see Patients' info
+7. Patients can list appointments and see Dentists' info
+8. Patients can cancel or change appointments
